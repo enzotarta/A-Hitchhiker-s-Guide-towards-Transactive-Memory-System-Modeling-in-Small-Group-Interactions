@@ -29,3 +29,6 @@ Dependencies to execute the pipeline:
 |Low   | ❌ | ❌ |  ✅  | DT |42.8 ± 3.8 | 54.2 ± 2.6 |80.0\*
 |Low   |  ✅ | ❌ |  ✅  | DT |42.8 ± 3.8 | 54.2 ± 2.6 | 80.0 ± 1.1
 |Low   |  ✅ |  ✅ |  ✅  | DT | **51.8 ± 2.1**|**58.3\*** | **83.3\***
+
+## Median decision trees achieved with the proposed pipeline
+![Specialization](decision_tree_examples/specialization_0.75_tree.png)
