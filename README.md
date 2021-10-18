@@ -31,4 +31,9 @@ Dependencies to execute the pipeline:
 |Low   |  ✅ |  ✅ |  ✅  | DT | **51.8 ± 2.1**|**58.3\*** | **83.3\***
 
 ## Median decision trees achieved with the proposed pipeline
-![Specialization](decision_tree_examples/specialization_0.75_tree.png)
+##### Specialization score
+![Specialization](images/specialization.png)
+##### Credibility score
+![Specialization](images/credibility.png)
+##### Coordination score
+![Specialization](images/coordination.png)
