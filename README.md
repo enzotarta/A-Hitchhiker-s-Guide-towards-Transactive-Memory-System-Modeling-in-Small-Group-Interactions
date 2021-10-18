@@ -14,8 +14,7 @@ Dependencies to execute the pipeline:
 
 ## Performance
 
-Features | Features | Dimensionality | Data | Trained | Performance (test) [\%]
-granularity | normalization | reduction | augmentation | model | Specialization | Credibility  | Coordination
+Features granularity| Features normalization| Dimensionality reduction | Data augmentation| Trained model | Specialization | Credibility  | Coordination
 ------------|---------------|-----------|--------------|-------|----------------|--------------|-------------
  -     |-       |-        |-        |Random guess |20.0| |20.0|20.0
         High  & \cmark & \xmark  & \cmark  & CNN & $46.8\pm 20.9$ & $ 46.5\pm 20.3$ & $25.7 \pm 16.6$\\
